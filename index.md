@@ -4,3 +4,4 @@
 #### I was born in Mogilev
 ##### But I am very happy to live and study in Minsk now
 ###### Bye.
+![This is my lyceum! The best one in Mogilev region and in the world!](mdal.jpg)
