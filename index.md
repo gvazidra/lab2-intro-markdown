@@ -14,3 +14,7 @@
     return 0;
   }
 ```
+- [x] Drink tea
+- [x] Eat 2 burgers and french fries
+- [ ] Make a deadline
+- [x] Cry about previous task
