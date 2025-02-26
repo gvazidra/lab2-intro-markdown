@@ -5,3 +5,12 @@
 ##### But I am very happy to live and study in Minsk now
 ###### Bye.
 ![This is my lyceum! The best one in Mogilev region and in the world!](mdal.jpg)
+
+```cpp
+  #include <iostream>
+
+  int main {
+    std::cout << "Hello, World!";
+    return 0;
+  }
+```
